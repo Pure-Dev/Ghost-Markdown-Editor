@@ -17,7 +17,7 @@ Demo: http://ghosditor.herokuapp.com/
 Star the repo: https://github.com/durgesh-priyaranjan/ghosditor
 
 Now if only it was platform independent (not requiring node)
-
+ 
 ## Contribute
 
 Feel free to make changes and issue a pull request.
